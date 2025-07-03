@@ -17,4 +17,4 @@ You Is Remover Menu Roblox Loading Home ! Here
 
 8- Put New graphic
 
-![Screenshot_1](https://github.com/user-attachments/assets/69ac3585-dae3-4511-804a-e8fe858f1f42)
+![Screenshot_2](https://github.com/user-attachments/assets/f52eb452-47cc-4c54-8fa9-2a61d30e1455)
