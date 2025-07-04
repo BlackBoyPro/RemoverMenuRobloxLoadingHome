@@ -1,5 +1,5 @@
 {
-  "DFIntTaskSchedulerTargetFps": 999
+  "DFIntTaskSchedulerTargetFps": 999,
   "FLogNetwork": "7",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FIntRenderShadowIntensity": "0",
