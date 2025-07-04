@@ -5,7 +5,7 @@
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
 </p>
 # Code Is Updates Fast Flag
-{
+>{
   "FLogNetwork": "7",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FIntRenderShadowIntensity": "0",
@@ -112,5 +112,3 @@
   "FFlagDisableChromePinnedChat": "True"
 }
 ----
-
-> winget install bloxstrap
