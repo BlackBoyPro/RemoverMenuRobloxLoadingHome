@@ -113,5 +113,4 @@
 }
 ----
 
-## Installing
-Download the [latest release of Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
+> winget install bloxstrap
