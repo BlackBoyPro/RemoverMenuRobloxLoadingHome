@@ -1,1 +1,1 @@
-- Some bugs were found in the view
+# Some bugs were found in the view
