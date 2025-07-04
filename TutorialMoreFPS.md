@@ -107,3 +107,4 @@
   "FFlagEnableInGameMenuModernization": "False",
   "FFlagDisableChromePinnedChat": "True"
 }
+----
